@@ -1,7 +1,7 @@
 name: youtube_bottom_navi_view
-description: "Description here"
+description: "Youtube Bottom Navigation View"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/youtube_bottom_navi_view
 
 version: 1.0.0+1
 
